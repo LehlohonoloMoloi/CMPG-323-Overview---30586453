@@ -19,7 +19,14 @@
   
   
 ## Projects and Repositories
+### {Diagram}
+I am going to create a repository for each project and tie them to one project.
 
-![image](https://user-images.githubusercontent.com/84228144/184950508-04cb9647-03d7-4bb7-b322-c5e78566a4b0.png)
+## Branching Strategy
+The branching strategy that will be employed in each project is that I am gonna be working on the main branch on every project. If a bug arises, I will then create a dev branch to fix it.
 
-An individual can choose to create a repository and just work on that repo alone. Sometimes one may need to link a few repositories together so that they can work on something. A project is the link between the repositories. You can link repositories to a single project and utilize resources from the linked repos on your project.
+## .gitignore Usage
+In each project, the .gitignore will be used to hide some sensitive files from the public, even though the repositories themselves will  be public.
+
+## Security
+Credentials and sensitive information will be stored in files that will be ignored from being published to the public.
