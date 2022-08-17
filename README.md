@@ -23,7 +23,7 @@
 I am going to create a repository for each project and tie them to one project.
 
 ## Branching Strategy
-The branching strategy that will be employed in each project is that I am gonna be working on the main branch on every project. If a bug arises, I will then create a dev branch to fix it.
+The branching strategy that will be employed in each project is that I am gonna be working on the main branch on every project. If a bug arises, I will then create a develop branch to fix it.
 
 ## .gitignore Usage
 In each project, the .gitignore will be used to hide some sensitive files from the public, even though the repositories themselves will  be public.
