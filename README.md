@@ -20,7 +20,7 @@
   
 ## Projects and Repositories
 ### {Diagram}
-I am going to create a repository for each project and tie them to one project.
+I am going to create a repository for each project and tie them to one project. There is going to be a repository for project 2, 3, 4, and 5.
 
 ## Branching Strategy
 The branching strategy that will be employed in each project is that I am gonna be working on the main branch on every project. If a bug arises, I will then create a develop branch to fix it.
