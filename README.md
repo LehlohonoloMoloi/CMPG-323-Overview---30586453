@@ -19,7 +19,7 @@
   
   
 ## Projects and Repositories
-### {Diagram}
+### ![image](https://user-images.githubusercontent.com/84228144/185381557-a121ed11-2021-4fe7-ab8b-de2bb715732b.png)
 I am going to create a repository for each project and tie them to one project. There is going to be a repository for project 2, 3, 4, and 5.
 
 ## Branching Strategy
