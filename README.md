@@ -19,8 +19,9 @@
   
   
 ## Projects and Repositories
-### 
-I am going to create a repository for each project and tie them to one project. There is going to be a repository for project 2, 3, 4, and 5.
+### ![image](https://user-images.githubusercontent.com/84228144/185400506-a197a3ac-f955-41ea-be2b-23b5c18a66cb.png)
+
+I am going to create a repository for each project.
 
 ## Branching Strategy
 The branching strategy that will be employed in each project is that I am gonna be working on the main branch on every project. If a bug arises, I will then create a develop branch to fix it.
