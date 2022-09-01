@@ -35,10 +35,14 @@ Credentials and sensitive information will be stored in files that will be ignor
 
 ## Charts
 ### Status Chart
-{}
+![Screenshot (20)](https://user-images.githubusercontent.com/84228144/187913426-219950a7-b658-42dc-8f38-770b76b8d11f.png)
+
 ### Burndown Chart
-{}
+![Screenshot (21)](https://user-images.githubusercontent.com/84228144/187913474-93e7753e-c987-419d-9c3e-da5e94b33990.png)
+
 ### Label Chart
-{}
+![Screenshot (22)](https://user-images.githubusercontent.com/84228144/187913526-b11baaf9-e4c4-4297-8d69-63aa5af5e66f.png)
+
 ### Sprint Chart
-{}
+![Screenshot (23)](https://user-images.githubusercontent.com/84228144/187913568-e54166b8-744b-4637-b3ab-6f2c34e478e7.png)
+
