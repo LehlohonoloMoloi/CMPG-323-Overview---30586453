@@ -31,3 +31,14 @@ In each project, the .gitignore will be used to hide some sensitive files from t
 
 ## Security
 Credentials and sensitive information will be stored in files that will be ignored from being published to the public.
+
+
+## Charts
+### Status Chart
+{}
+### Burndown Chart
+{}
+### Label Chart
+{}
+### Sprint Chart
+{}
