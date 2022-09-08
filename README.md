@@ -47,7 +47,8 @@ Credentials and sensitive information will be stored in files that will be ignor
 ![Screenshot (23)](https://user-images.githubusercontent.com/84228144/187913568-e54166b8-744b-4637-b3ab-6f2c34e478e7.png)
 
 
-#Project 2
+# Project 2
+
 ![image](https://user-images.githubusercontent.com/84228144/189093836-f1497d5e-fa67-467e-a191-c0aa78a92ead.png)
 
 Project 2 is done and added to github.
