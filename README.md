@@ -46,3 +46,11 @@ Credentials and sensitive information will be stored in files that will be ignor
 ### Sprint Chart
 ![Screenshot (23)](https://user-images.githubusercontent.com/84228144/187913568-e54166b8-744b-4637-b3ab-6f2c34e478e7.png)
 
+
+#Project 2
+![image](https://user-images.githubusercontent.com/84228144/189093836-f1497d5e-fa67-467e-a191-c0aa78a92ead.png)
+
+Project 2 is done and added to github.
+This is a Web API project that works together with a database called ConnectedOffice. This datase is a SQL Server database that is hosted on Azure. The database has three tables, namely; Categories, Devices, and Zone.
+
+This API is fundamentally an IoT Device Management System keeps track of the whereabouts of all IoT devices deployed by the organisation. Depending on the type of organisation, different categories of devices are used. Each IoT device is initially categorised and registered. Then, IoT devices are deployed throughout the organisation's buildings in predefined zones. Administrators can view all IoT devices, update their properties, add new devices and move them to other zones.
