@@ -57,7 +57,7 @@ This is a Web API project that works together with a database called ConnectedOf
 This API is fundamentally an IoT Device Management System keeps track of the whereabouts of all IoT devices deployed by the organisation. Depending on the type of organisation, different categories of devices are used. Each IoT device is initially categorised and registered. Then, IoT devices are deployed throughout the organisation's buildings in predefined zones. Administrators can view all IoT devices, update their properties, add new devices and move them to other zones.
 
 
-# Overview
+# Project 3 Overview
 In this day and age, there are millions of applications that have been created and are widely used. 
 A developer’s ability to read and understand code is even more important than their ability to write 
 code. As such, I was given a an existing ASP.NET Core MVC Application and I enhanced and improved it.
